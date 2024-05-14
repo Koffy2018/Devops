@@ -1,0 +1,1 @@
+# ko-resilient-infrastructure-basics-manual-set-up.md
